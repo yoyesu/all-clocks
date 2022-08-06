@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/*background styling*/
+body {
+  background-color: black;
+  text-align: center;
+  margin-top: 20%;
+}
+
+/*clock*/
+.clock-container{
+  color:aqua;
+  font-size: 7rem;
+}
