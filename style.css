@@ -12,7 +12,11 @@ body {
 }
 
 /*clock*/
-.clock-container{
+.clock-container, .clock-container2{
   color:aqua;
   font-size: 7rem;
+}
+
+.hidden{
+  display: none;
 }
